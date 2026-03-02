@@ -13,7 +13,9 @@ class Factorial{
         result=fact(n-1)*n;
         return result;
     }
+
 }
+
 class Recursion{
     public static void main(String[] args){
         Factorial f= new Factorial();
@@ -30,4 +32,6 @@ class Recursion{
         System.out.println("The factorial of number 3 is :" + f.fact(c));
     }
 
+
 }
+// by abhilipsa pati
