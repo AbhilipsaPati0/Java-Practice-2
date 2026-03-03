@@ -3,6 +3,7 @@
  * Name-Abhilipsa Pati
  * Regn No- 230301120502
  * Date- 03/08/2024
+ * 
  */
 import java.util.Scanner;
 public class Checkcase{
@@ -19,4 +20,5 @@ public class Checkcase{
             System.out.println(ch+" is not an alphabet.");
         }
     }
+    
 }
