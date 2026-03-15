@@ -5,6 +5,7 @@
  * Date- 03/08/2024
  * 
  */
+// program to check whether the entered alphabet is uppercase or lowercase.
 import java.util.Scanner;
 public class Checkcase{
     public static void main(String[] args) {
