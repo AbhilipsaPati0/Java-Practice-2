@@ -2,7 +2,7 @@
 /*Program name-Program to update specific array elements by referring to the index of the array
  * Name-Abhilipsa Pati
  * Regn No- 230301120502
- * Date- 19.08.2024
+ * in this program we are updating specific array elements by referring to the index of the array. We have an array of integers and we are updating the values at specific indices and then printing the updated array.
  */
 import java.util.Scanner;
 public class Updatearray{
